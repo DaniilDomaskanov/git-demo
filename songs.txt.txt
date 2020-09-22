@@ -1,6 +1,3 @@
 all
 
 all usefull
-
-
-all useless
